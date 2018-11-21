@@ -1,4 +1,0 @@
-/usr/local/src/clion-2018.2.2/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /data/tmp/beasttest
--- Configuring done
--- Generating done
--- Build files have been written to: /data/tmp/beasttest/cmake-build-debug
